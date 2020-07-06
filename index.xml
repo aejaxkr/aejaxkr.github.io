@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aejaz Ahmed K R</title>
+    <link>https://aejaxkr.github.io/</link>
+    <description>Recent content on Aejaz Ahmed K R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Jul 2020 14:13:18 +0530</lastBuildDate>
+    
+	<atom:link href="https://aejaxkr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Myblog</title>
+      <link>https://aejaxkr.github.io/blog/myblog/</link>
+      <pubDate>Mon, 06 Jul 2020 14:13:18 +0530</pubDate>
+      
+      <guid>https://aejaxkr.github.io/blog/myblog/</guid>
+      <description>#This is my First blog</description>
+    </item>
+    
+  </channel>
+</rss>
